@@ -6,6 +6,11 @@ A simple and clean weather application that provides real-time weather forecasts
 - **Live on CodeSandbox:** `https://7s22zy-5173.csb.app/`
 - **Candidate ID:** `Naukri0925`
 
+## 📸Screenshots
+- <img width="1221" height="669" alt="Screenshot 2025-09-09 171355" src="https://github.com/user-attachments/assets/2de491e4-5f7a-48df-b0ea-9c14514237b5" />
+- <img width="1221" height="605" alt="Screenshot 2025-09-09 171419" src="https://github.com/user-attachments/assets/87921dea-4aba-41fe-a982-61f0e9fd76d1" />
+
+
 ## 🛠️ Tech Stack
 - **React (Vite)**
 - **Open-Meteo API** for geocoding and forecast data
